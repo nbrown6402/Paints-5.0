@@ -1,0 +1,30 @@
+Nicole's Paints Version 5.0 10/07/22
+
+New Features:
+- Checkbox to enable or disable Smart save (if activated the document will save every 30 seconds)
+- 2 unit tests are apart of the program
+- javadoc commenting
+
+Fixed issues:
+- none 
+
+Known issues:
+- Image loads in fully zoomed if a large image is loaded in
+- the smart save shows up anytime you hit quit
+- tabs opens a new tab, but you cant not open an image or draw on the canvas
+- need select and move
+- n-sided polygon doesnt let you keep it
+- unit tests do not work
+- needs error message when saving different file formats
+
+Expected next: 
+- reset smart save if save is hit
+- fix all the quirks
+-clean up code more
+
+Links: 
+Github: 
+https://github.com/nbrown6402/Paint-4.0
+
+
+Pictures: uploaded as a pdf
